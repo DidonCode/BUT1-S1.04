@@ -1,1 +1,3 @@
 # SAE-BDD
+
+L'objectif a été de crée une base de donnée pour une entreprise d'agence de voyage pour des hébergements, hébergeur, vol, ...
